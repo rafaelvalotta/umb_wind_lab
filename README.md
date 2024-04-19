@@ -1,4 +1,4 @@
-# umb_wind_lab
+# Wind Energy Lab: UMass Boston
 UMB Wind Energy Lab Official Repo
 
 Rafael Valotta Rodrigues
